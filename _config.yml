@@ -20,7 +20,7 @@ webtitle: 'ChivasKong'
 bio: '😁'
 about: true
 aboutyou: 'SYSUer'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.JPG' # your portraits image file path
 
 # SNS
 SNS: true
